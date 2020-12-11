@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Nishaghoul/Nishaghoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Math enthusiast. I love to read.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Actively looking out for research internships
+- 💅 Designing my github page
+- 🎙 Learning to play the ukelele
+
+##### BIO
+
+- 🏢 I'm currently pursing a Masters in Mathematics and Computing
+- 🌍 I'm a freelance **writer**
+- 🌱 Learning about **Open Source**
+- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- 📫 Reach me: [www.nisha16.mailing@gmail.com
